@@ -1,4 +1,11 @@
-## Hi there 👋
-Hi, I'm Alex, a computer engineering student at California State University San Bernardino!
-- Currently I am an undergraduate assistant researcher at the Artificial Intelligence, Quantum Computing, Fusion Energy, and Semiconductors Research and Training Lab at CSUSB.
-- 📫 How to reach me: alexvarg@gmail.com
+# Alexander Vargas
+B.S Computer Engineering, California State University San Bernardino
+Recent Computer Engineering Graduate focused on AI/ML, computer vision, robotics, and reinforcement learning.
+
+## Featured Project
+
+### Cross-Domain Reinforcement Learning for UAV-to-UGV Autonomous Navigation
+
+Compared PPO, SAC, and TD3 agents for simulated autonomous navigation and evaluated UAV-to-UGV transfer learning using reward, success rate, episode length, and out-of-bounds metrics.
+
+Technologies: Python, Stable-Baselines3, Gymnasium, PyTorch, NumPy, Matplotlib
