@@ -1,6 +1,7 @@
 # Alexander Vargas
 B.S Computer Engineering, California State University San Bernardino
-Recent Computer Engineering Graduate focused on AI/ML, computer vision, robotics, and reinforcement learning.
+
+Computer Engineering Graduate focused on AI/ML, computer vision, robotics, and reinforcement learning.
 
 ## Featured Project
 
